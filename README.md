@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/IzkSensei/Data-Modeling/blob/master/Images/Title.JPG">
 </p>
-<h1 align="center">Modeling Metrics with Probabality Distribution</h1>
+<h1 align="center">Modeling Metrics with Probability Distribution</h1>
 <p>Probability distribution can simulate various series of events. Thus, it can be used in order to simulate some events, behavior of the system, or even predict some actions. Different distributions can be used for different usage. In this project, some queries were calculated by some probabilities.
 </p>
 
